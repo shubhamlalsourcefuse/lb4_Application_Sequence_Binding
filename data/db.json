@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "User": 5
+  },
+  "models": {
+    "User": {
+      "1": "{\"name\":\"Rahul Singh\",\"email\":\"rahul.singh@sourcefuse.com\",\"id\":1}",
+      "2": "{\"name\":\"Samarpan Bhattacharya\",\"email\":\"Samarpan.bhattacharya@sourcefuse.com\",\"id\":2}",
+      "3": "{\"name\":\"Vishal Kumar\",\"email\":\"vishal.kumar@sourcefuse.com\",\"id\":3}",
+      "4": "{\"name\":\"Shubham Lal\",\"email\":\"shubham.lal@sourcefuse.com\",\"phone\":6206423013,\"id\":4}"
+    }
+  }
+}
